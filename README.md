@@ -1,1 +1,1 @@
-# portal-noticias
+# portal-academico
