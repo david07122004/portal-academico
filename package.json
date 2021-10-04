@@ -1,9 +1,9 @@
 {
-  "name": "portal-academico",
+  "name": "portal-academico-2ap",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./src/bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
